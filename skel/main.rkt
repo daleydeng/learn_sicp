@@ -3,4 +3,5 @@
 #|
 |#
 (require rackunit
-         racket/trace)
+         racket/trace
+         debug/repl)
